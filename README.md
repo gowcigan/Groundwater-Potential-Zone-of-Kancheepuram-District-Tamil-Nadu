@@ -19,10 +19,14 @@ NDWI stands for Normalized Difference Water Index
  NDWI = (Green-NIR)/(Green+NIR)
 BSI stands for Bare Soil Index
  BSI = (SWIF-RED)/(SWIR+RED)
+ ![image](https://github.com/gowcigan/Groundwater-Potential-Zone-of-Kancheepuram-District-Tamil-Nadu/assets/136164811/3128c92d-92d6-40e2-beda-473296e60a72)
+
 Groundwater Potential is depending on the Land Use and Land Cover, Watershed, Line density, Soil, 
 Slope, Rainfall data can be identified by the tool of Weighted Overlay’s in Spatial Analyst.
 ## RESULT AND DISCUSSION
 The presence of groundwater under the surface of the earth may be determined by the thematic 
 sections of satellite images. Groundwater is mostly dependent on geology and geomorphology and 
 can permeate the ground through precipitation.
+
+
  
