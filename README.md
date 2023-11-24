@@ -3,6 +3,8 @@ Groundwater exists in three primary forms: as vast bodies in oceans, lakes; flow
 ## STUDY AREA
 Kancheepuram district, a part of Tamil Nadu, was formed in 1997 from the older Chengalpattu district. It shares borders with Chengalpattu, Rani pet, Tiruvannamalai, and Tiruvallur districts. Spanning 4,43,210 hectares, the region experiences an average annual rainfall of 1200mm, primarily from the northeast and southwest monsoons. The Palar River, although dammed upstream, remains a significant river in the area, with few elevated hills and 25,586 hectares of forest cover comprising Clay Loam, Loam, and Sandy Loam soil types.
 It lies  between 12° 14′ 00″ N to 13° 02′ 00″ N latitude, 79° 31′ 30″ E to 80° 15′ 30″ E longitude. 
+![image](https://github.com/gowcigan/Groundwater-Potential-Zone-of-Kancheepuram-District-Tamil-Nadu/assets/136164811/5d09fabc-39fb-4580-9e32-0ad9e6e15d7e)
+
 ## DATA COLLECTION
 Data for the research region was gathered using USGS Earth Explorer’s latitude and longitude 
 functions. Data from Landsat’s Type 8 and Type 9 Collection 2 Level 2 were gathered. The USGS can 
@@ -19,7 +21,7 @@ NDWI stands for Normalized Difference Water Index
  NDWI = (Green-NIR)/(Green+NIR)
 BSI stands for Bare Soil Index
  BSI = (SWIF-RED)/(SWIR+RED)
- ![image](https://github.com/gowcigan/Groundwater-Potential-Zone-of-Kancheepuram-District-Tamil-Nadu/assets/136164811/3128c92d-92d6-40e2-beda-473296e60a72)
+![image](https://github.com/gowcigan/Groundwater-Potential-Zone-of-Kancheepuram-District-Tamil-Nadu/assets/136164811/171f028e-a9ec-4cc1-85da-80e11a5977a1)
 
 Groundwater Potential is depending on the Land Use and Land Cover, Watershed, Line density, Soil, 
 Slope, Rainfall data can be identified by the tool of Weighted Overlay’s in Spatial Analyst.
